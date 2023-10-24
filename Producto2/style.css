@@ -1,0 +1,14 @@
+ 
+.titulo{
+   text-align: center;
+   color: blueviolet;
+   
+}
+.imagen{
+    height: 150px;
+    width: 180px;
+    text-align: center;
+}
+.reservas{
+    color: cadetblue;
+}  
